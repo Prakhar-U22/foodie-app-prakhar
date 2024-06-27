@@ -92,7 +92,7 @@ export default function Home() {
             </div>
           ))
         ) : (
-          <p>No categories available</p>
+          <p>Backend Takes little time to Connect with Frontend!</p>
         )}
       </div>
       <Footer />
